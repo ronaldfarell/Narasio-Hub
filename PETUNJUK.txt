@@ -1,0 +1,10 @@
+NARASIO HUB - PAKET PWA
+
+1. Unggah SEMUA file ini ke satu folder di hosting (contoh: naldstudio.com/narasio-hub/):
+   index.html, manifest.webmanifest, sw.js, dan folder icons/ (berisi 4 gambar).
+2. Buka alamat folder itu lewat HTTPS di Chrome (Android/Windows). Tombol "Instal" akan muncul.
+3. iPhone/Mac: Safari > Bagikan > Tambah ke Layar Utama / Dock.
+4. Setelah mengubah index.html, naikkan angka V di sw.js (mis. narasio-hub-v2) agar pembaruan terbaca.
+
+Catatan: di hosting sendiri, sinkronisasi chat antar orang, baca kartu nama (Kartio), serta terjemah/ringkas/notulen (Genio)
+tidak aktif karena itu memakai layanan Claude. Fitur lain berjalan seperti biasa.
